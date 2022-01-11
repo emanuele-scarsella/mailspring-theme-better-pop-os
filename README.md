@@ -1,19 +1,16 @@
-# Pop!_OS theme for Mailsprings
+# !!! WORK IN PROGRESS !!!
 
-I wanted to create a [Mailspring](https://getmailspring.com/) theme which better integrates with dark theme on Pop!_OS.
-So my colour choices were deeply inspired by this operating system. 
-Since this is a dark theme, it is necessary to modify the style of email messages to be displayed correctly. For this reason I reused the code from a [Predawn](https://github.com/asparc/predawn) Mailspring theme. So all the credits go to asparc.
+This theme was forked from [tothpsk](https://github.com/tothpsk/mailspring-theme-pop-os) whom reused the code from a [Predawn](https://github.com/asparc/predawn) Mailspring theme.
+This fork aims to improve the integration with the aesthetics of the default Pop!_OS dark theme.
+While this version is in progress an updated list of all improvements is going to be shown here:
+- Changed accent color to metch the same light blue used by Pop!_OS
 
-# Screenshot
-![image](https://raw.githubusercontent.com/tothpsk/mailspring-theme-pop-os/main/screenshot/pop-os-theme.png)
+# Better Pop!_OS theme for Mailsprings
 
-![image](https://raw.githubusercontent.com/tothpsk/mailspring-theme-pop-os/main/screenshot/pop-os-theme%20screenshot%202.png)
-
-![image](https://github.com/tothpsk/mailspring-theme-pop-os/blob/main/screenshot/pop-os-theme%20screenshot%203.png?raw=true)
+Better Pop!_OS dark theme for [Mailspring](https://getmailspring.com/) mail client.
 
 # Installation
 1. Download [Mailspring](https://getmailspring.com/)
-2. Download the latest version of the [Pop!_OS theme](https://github.com/tothpsk/mailspring-theme-pop-os/archive/refs/heads/main.zip)
+2. Download the latest version of the [Pop!_OS theme](https://github.com/emanuele-scarsella/mailspring-theme-better-pop-os/archive/refs/heads/main.zip)
 3. Unzip
-4. In the Mailspring, click Edit > install theme and select the unzipped folder
-5. Enjoy :) 
+4. Open Mailspring and then click Edit > install theme and select the unzipped folder
